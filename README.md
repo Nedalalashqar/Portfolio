@@ -6,9 +6,9 @@ Estimate of time needed to complete: __2___
 
 Start time: __1.30___
 
-Finish time: _____
+Finish time: __3___
 
-Actual time needed to complete: _____
+Actual time needed to complete: ___1.30__
 
 
 
