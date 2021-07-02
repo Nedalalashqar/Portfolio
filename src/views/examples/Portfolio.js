@@ -18,13 +18,13 @@
 import React from "react";
 // nodejs library that concatenates classes
 import classnames from "classnames";
-import promo1 from "assets/img/theme/promo-1.png";
-import cardImg from "assets/img/theme/img-1-1200x1000.jpg";
-import ill2 from "assets/img/ill/ill-2.svg";
-import team1 from "assets/img/theme/team-1-800x800.jpg";
-import team2 from "assets/img/theme/team-2-800x800.jpg";
-import team3 from "assets/img/theme/team-3-800x800.jpg";
-import team4 from "assets/img/theme/team-4-800x800.jpg";
+import promo1 from "src/assets/img/theme/photo-1593642702909-dec73df255d7.jpg";
+import cardImg from "src/assets/img/theme/photo-1624410720892-31796a2482f7.jpg";
+import ill2 from "src/assets/img/theme/photo-1625069698504-e9b5986fea8c.jpg";
+import team1 from "src/assets/img/theme/photo-1625128726833-c811f18946b3.jpg";
+import team2 from "src/assets/img/theme/photo-1625153815057-6b112c9b64c7.jpg";
+import team3 from "src/assets/img/theme/photo-1625157189012-34b5a6813870.jpg";
+import team4 from "src/assets/img/theme/photo-1625158241372-6d3cfbf366b0.jpg";
 
 // reactstrap components
 import {
@@ -148,12 +148,9 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
-                          </h6>
+                          bus-mall                          </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          bus-mall 
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
@@ -184,12 +181,9 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
-                          </h6>
+                          my-garden                          </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          my-garden
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -220,13 +214,11 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
-                          </h6>
+
+                          cookie-stand                          </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
-                          </p>
+
+                          cookie-stand                          </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
                               marketing
