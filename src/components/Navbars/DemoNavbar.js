@@ -38,8 +38,8 @@ import {
   Col,
   UncontrolledTooltip
 } from "reactstrap";
-import reactWhite from "src/assets/img/theme/photo-1625069698504-e9b5986fea8c.jpg";
-import argonReact from "src/assets/img/theme/photo-1625069698504-e9b5986fea8c.jpg";
+import reactWhite from "assets/img/brand/argon-react-white.png";
+import argonReact from "assets/img/brand/argon-react.png";
 
 class DemoNavbar extends React.Component {
   componentDidMount() {
@@ -117,7 +117,7 @@ class DemoNavbar extends React.Component {
                     <DropdownMenu className="dropdown-menu-xl">
                       <div className="dropdown-menu-inner">
                         <Media
-                          className="d-flex align-items-center"
+                          className="#f5365c"
                           href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/overview?ref=adsr-navbar"
                           target="_blank"
                         >
@@ -135,7 +135,7 @@ class DemoNavbar extends React.Component {
                           </Media>
                         </Media>
                         <Media
-                          className="d-flex align-items-center"
+                          className="#fb6340"
                           href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/colors?ref=adsr-navbar"
                           target="_blank"
                         >
